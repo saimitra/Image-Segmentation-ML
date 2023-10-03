@@ -11,7 +11,6 @@ Ensure you have Python and OpenCV installed.
 Clone this repository:
 git clone https://github.com/your_username/Image-Segmentation-ML.git
 Navigate to the directory:
-Copy code
 cd Image-Segmentation-ML
 Run the Jupyter Notebook:
 Copy code
